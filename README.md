@@ -64,7 +64,9 @@ Based on the workbook's KPI Summary:
 - Delivery efficiency and profitability are potential areas for business improvement.
 
 ## Dashboard Features
+## Dashboard Preview
 
+![E-commerce Dashboard](Dashboard.png)
 - Business KPI summary
 - Sales and profit visualization
 - Category and brand performance
